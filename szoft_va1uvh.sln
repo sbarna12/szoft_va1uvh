@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szorzotabla", "szorzotabla\szorzotabla.csproj", "{FE7CF2A7-6B16-46CB-822B-C777277473CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "fibonacci\fibonacci.csproj", "{0A46E7E4-517F-4D64-85E2-21C70220B9D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pascal", "pascal\pascal.csproj", "{41D09425-E970-404C-A48C-A581F7907F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7CF2A7-6B16-46CB-822B-C777277473CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7CF2A7-6B16-46CB-822B-C777277473CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7CF2A7-6B16-46CB-822B-C777277473CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7CF2A7-6B16-46CB-822B-C777277473CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A46E7E4-517F-4D64-85E2-21C70220B9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A46E7E4-517F-4D64-85E2-21C70220B9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A46E7E4-517F-4D64-85E2-21C70220B9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A46E7E4-517F-4D64-85E2-21C70220B9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D09425-E970-404C-A48C-A581F7907F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D09425-E970-404C-A48C-A581F7907F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D09425-E970-404C-A48C-A581F7907F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D09425-E970-404C-A48C-A581F7907F44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50531C03-1948-40B3-B3B3-B2CACFAD6AFE}
+	EndGlobalSection
+EndGlobal
