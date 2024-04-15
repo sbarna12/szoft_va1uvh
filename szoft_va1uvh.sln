@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pascal", "pascal\pascal.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VillogoGomb", "VillogoGomb\VillogoGomb.csproj", "{901C6FCE-F782-49D2-A97F-45D9390BC96A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gyaki", "gyaki\gyaki.csproj", "{D2618209-EFFC-49FE-A250-0E6E55E45F14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gyaki", "gyaki\gyaki.csproj", "{D2618209-EFFC-49FE-A250-0E6E55E45F14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajosTeszt", "HajosTeszt\HajosTeszt.csproj", "{C014C828-5114-4A42-A17D-D7BFD4C20A07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D2618209-EFFC-49FE-A250-0E6E55E45F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2618209-EFFC-49FE-A250-0E6E55E45F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2618209-EFFC-49FE-A250-0E6E55E45F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C014C828-5114-4A42-A17D-D7BFD4C20A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C014C828-5114-4A42-A17D-D7BFD4C20A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C014C828-5114-4A42-A17D-D7BFD4C20A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C014C828-5114-4A42-A17D-D7BFD4C20A07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
