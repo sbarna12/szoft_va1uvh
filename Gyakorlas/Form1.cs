@@ -18,10 +18,7 @@ namespace Gyakorlas
                 string s = sr.ReadLine();
                 Trace.WriteLine($"{sorszam} - {s}");
                 sorszam++;
-                if (sorszam==100)
-                {
-                    break;
-                }
+                if (sorszam == 100) break;
             }
 
 
